@@ -1,6 +1,6 @@
 ## Objetivo
 
-The goal of this level is for you to log into the game using SSH. The host to which you need to connect is **bandit.labs.overthewire.org**, on port 2220. The username is **bandit0** and the password is **bandit0**. Once logged in, go to the [Level 1](https://overthewire.org/wargames/bandit/bandit1.html) page to find out how to beat Level 1.
+The password for the next level is stored in a file called **readme** located in the home directory. Use this password to log into bandit1 using SSH. Whenever you find a password for a level, use SSH (on port 2220) to log into that level and continue the game.
 
 ## Datos de acceso
 - Puerto: 2220
@@ -11,10 +11,16 @@ The goal of this level is for you to log into the game using SSH. The host to wh
 ## Solución
 
 ```bash
-ssh -l bandit0 bandit.labs.overthewire.org -p 2220
+bandit0@bandit:~$ ls
+readme
+bandit0@bandit:~$ cat readme
+NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+bandit0@bandit:~$
 ```
 
 ## Notas adicionales
 
-Aprendí a establecer el formato de terminal con las comillas invertidas.
+Aprendí a utilizar los comandos "ls" para listar los archivos del directorio.
+Aprendí a utilizar el comando "cat" para abrir el archivo readme.
+
 ## Referencias
