@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bandit15 - 16.md",
+                "file": "Bandit21 - 22.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bandit15 - 16.md",
+                "file": "Bandit21 - 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bandit15 - 16.md",
+                "file": "Bandit21 - 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bandit15 - 16.md"
+                "file": "Bandit21 - 22.md"
               }
             }
           }
@@ -148,8 +148,15 @@
   },
   "active": "ba0cf7aa57782609",
   "lastOpenFiles": [
-    "Bandit14 - 15.md",
+    "Bandit20 - 21.md",
+    "Bandit21 - 22.md",
+    "Bandit19 - 20.md",
+    "Bandit18 - 19.md",
+    "Bandit17 - 18.md",
+    "Bandit16 - 17.md",
+    "Bandit0.md",
     "Bandit15 - 16.md",
+    "Bandit14 - 15.md",
     "Bandit13 - 14.md",
     "Plantilla.md",
     "Bandit12 - 13 1.md",
@@ -157,7 +164,6 @@
     "Untitled.md",
     "Bandit11 - 12.md",
     "Bandit10 - 11.md",
-    "Bandit0.md",
     "Bandit9 - 10.md",
     "Bandit8 - 9.md",
     "Bandit7 - 8.md",
@@ -167,7 +173,6 @@
     "Bandit4 - 5.md",
     "Bandit3 - 4.md",
     "Bandit2 - 3.md",
-    "Bandit1 - 2.md",
-    "Plantilla 1.md"
+    "Bandit1 - 2.md"
   ]
 }
