@@ -7,7 +7,7 @@ There is a setuid binary in the homedirectory that does the following: it makes 
 - Puerto: 2220
 - Host: bandit.labs.overthewire.org
 - Contraseña: VxCazJaVykI6W36BkBU0mJTCM8rR95XT
-- Usuario: **bandit19
+- Usuario: **bandit20
 
 ## Solución
 

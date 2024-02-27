@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d5f73eed86c618fd",
+        "id": "cb1b8bb843c94617",
         "type": "tabs",
         "children": [
           {
-            "id": "ba0cf7aa57782609",
+            "id": "6fb7a433c741811f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bandit21 - 22.md",
+                "file": "Retos-bandit/Bandit32 - 33.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bandit21 - 22.md",
+                "file": "Retos-bandit/Bandit32 - 33.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bandit21 - 22.md",
+                "file": "Retos-bandit/Bandit32 - 33.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bandit21 - 22.md"
+                "file": "Retos-bandit/Bandit32 - 33.md"
               }
             }
           }
@@ -146,33 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba0cf7aa57782609",
+  "active": "6fb7a433c741811f",
   "lastOpenFiles": [
-    "Bandit20 - 21.md",
-    "Bandit21 - 22.md",
-    "Bandit19 - 20.md",
-    "Bandit18 - 19.md",
-    "Bandit17 - 18.md",
-    "Bandit16 - 17.md",
-    "Bandit0.md",
-    "Bandit15 - 16.md",
-    "Bandit14 - 15.md",
-    "Bandit13 - 14.md",
+    "Retos-bandit/Bandit33 - 34.md",
+    "Retos-bandit/Bandit32 - 33.md",
+    "Retos-bandit/Bandit31 - 32.md",
+    "Retos-bandit/Bandit30 - 31.md",
+    "Retos-bandit/Bandit29 - 30.md",
+    "Retos-bandit/Bandit28 -29.md",
+    "Retos-bandit/Bandit27 - 28.md",
+    "Retos-bandit/Bandit0.md",
+    "Retos-bandit/Bandit21 - 22.md",
+    "Retos-bandit/Bandit23 - 24.md",
+    "Retos-bandit/Bandit22 - 23.md",
+    "Retos-bandit/Bandit24 - 25.md",
+    "Retos-bandit/Bandit26 - 27.md",
+    "Retos-bandit/Bandit20 - 21.md",
+    "Retos-bandit/Bandit25 -26.md",
     "Plantilla.md",
-    "Bandit12 - 13 1.md",
-    "Bandit12 - 13.md",
+    "Retos-bandit/Bandit0 - 1.md",
+    "primer-parcial/07-Warmed Up.md",
+    "primer-parcial/06-Lets Warm Up.md",
+    "primer-parcial/05-Tab Tab Attack.md",
+    "primer-parcial/04-Static ain't always noise.md",
+    "primer-parcial/03-Nice Netcat....md",
+    "primer-parcial/02-Wave flag.md",
+    "primer-parcial/01-Obedient Cat.md",
+    "Untitled 1.md",
     "Untitled.md",
-    "Bandit11 - 12.md",
-    "Bandit10 - 11.md",
-    "Bandit9 - 10.md",
-    "Bandit8 - 9.md",
-    "Bandit7 - 8.md",
-    "Bandit6 - 7.md",
-    "Bandit0 - 1.md",
-    "Bandit5 - 6.md",
-    "Bandit4 - 5.md",
-    "Bandit3 - 4.md",
-    "Bandit2 - 3.md",
-    "Bandit1 - 2.md"
+    "primer-parcial",
+    "Retos-bandit"
   ]
 }
