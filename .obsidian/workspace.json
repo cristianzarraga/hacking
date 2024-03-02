@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cb1b8bb843c94617",
+        "id": "49cc188f0cf95756",
         "type": "tabs",
         "children": [
           {
-            "id": "6fb7a433c741811f",
+            "id": "1fda9ecaccb3f47e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Retos-bandit/Bandit32 - 33.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos-bandit/Bandit32 - 33.md",
+                "file": "Primer-examen-parcial/01-Obedient Cat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos-bandit/Bandit32 - 33.md",
+                "file": "Primer-examen-parcial/01-Obedient Cat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos-bandit/Bandit32 - 33.md"
+                "file": "Primer-examen-parcial/01-Obedient Cat.md"
               }
             }
           }
@@ -146,35 +142,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6fb7a433c741811f",
+  "active": "1822001a878e1a46",
   "lastOpenFiles": [
-    "Retos-bandit/Bandit33 - 34.md",
+    "Retos-Web/1 - Irish-Name-Repo 1.md",
+    "Retos-Web",
+    "Primer-examen-parcial/25 - Plumbing.md",
+    "Primer-examen-parcial/24 - Based.md",
+    "Primer-examen-parcial/23 - Runme.py.md",
+    "Primer-examen-parcial/22 - PW Crack 3.md",
+    "Primer-examen-parcial/21 - PW Crack 2.md",
+    "Primer-examen-parcial/20 - PW Crack 1.md",
+    "Primer-examen-parcial/19 - what's a net cat.md",
+    "Primer-examen-parcial/18 - Strings it.md",
+    "Primer-examen-parcial/17 - FIxme2.py.md",
+    "Primer-examen-parcial/16 - fixme1.py.md",
+    "Primer-examen-parcial/15 - First grep.md",
+    "Primer-examen-parcial/14 - convertme.py.md",
+    "Primer-examen-parcial/14 - codebook.md",
+    "Primer-examen-parcial/13 - where are the robots.md",
+    "Primer-examen-parcial/12 - web-inspector.md",
+    "Primer-examen-parcial/11 - logon.md",
+    "Primer-examen-parcial/10 - dont-use-client-side.md",
+    "Primer-examen-parcial/09 - Client-side-again.md",
+    "Primer-examen-parcial/08-2Warm.md",
     "Retos-bandit/Bandit32 - 33.md",
+    "Retos-bandit/Bandit33 - 34.md",
     "Retos-bandit/Bandit31 - 32.md",
     "Retos-bandit/Bandit30 - 31.md",
     "Retos-bandit/Bandit29 - 30.md",
-    "Retos-bandit/Bandit28 -29.md",
-    "Retos-bandit/Bandit27 - 28.md",
-    "Retos-bandit/Bandit0.md",
-    "Retos-bandit/Bandit21 - 22.md",
-    "Retos-bandit/Bandit23 - 24.md",
-    "Retos-bandit/Bandit22 - 23.md",
-    "Retos-bandit/Bandit24 - 25.md",
-    "Retos-bandit/Bandit26 - 27.md",
-    "Retos-bandit/Bandit20 - 21.md",
-    "Retos-bandit/Bandit25 -26.md",
-    "Plantilla.md",
-    "Retos-bandit/Bandit0 - 1.md",
-    "primer-parcial/07-Warmed Up.md",
-    "primer-parcial/06-Lets Warm Up.md",
-    "primer-parcial/05-Tab Tab Attack.md",
-    "primer-parcial/04-Static ain't always noise.md",
-    "primer-parcial/03-Nice Netcat....md",
-    "primer-parcial/02-Wave flag.md",
-    "primer-parcial/01-Obedient Cat.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "primer-parcial",
+    "Primer-examen-parcial",
     "Retos-bandit"
   ]
 }
