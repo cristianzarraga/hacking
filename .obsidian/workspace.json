@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "49cc188f0cf95756",
+        "id": "19deb1e95a426f00",
         "type": "tabs",
         "children": [
           {
-            "id": "1fda9ecaccb3f47e",
+            "id": "56a67032a0038efc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "What does this bDNhcm5fdGgzX3IwcDM1 mean? I think it has something to do with bases.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primer-examen-parcial/01-Obedient Cat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Primer-examen-parcial/01-Obedient Cat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Primer-examen-parcial/01-Obedient Cat.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -144,33 +140,35 @@
   },
   "active": "1822001a878e1a46",
   "lastOpenFiles": [
-    "Retos-Web/1 - Irish-Name-Repo 1.md",
-    "Retos-Web",
-    "Primer-examen-parcial/25 - Plumbing.md",
-    "Primer-examen-parcial/24 - Based.md",
-    "Primer-examen-parcial/23 - Runme.py.md",
-    "Primer-examen-parcial/22 - PW Crack 3.md",
-    "Primer-examen-parcial/21 - PW Crack 2.md",
-    "Primer-examen-parcial/20 - PW Crack 1.md",
-    "Primer-examen-parcial/19 - what's a net cat.md",
-    "Primer-examen-parcial/18 - Strings it.md",
-    "Primer-examen-parcial/17 - FIxme2.py.md",
-    "Primer-examen-parcial/16 - fixme1.py.md",
-    "Primer-examen-parcial/15 - First grep.md",
-    "Primer-examen-parcial/14 - convertme.py.md",
-    "Primer-examen-parcial/14 - codebook.md",
-    "Primer-examen-parcial/13 - where are the robots.md",
-    "Primer-examen-parcial/12 - web-inspector.md",
-    "Primer-examen-parcial/11 - logon.md",
-    "Primer-examen-parcial/10 - dont-use-client-side.md",
-    "Primer-examen-parcial/09 - Client-side-again.md",
-    "Primer-examen-parcial/08-2Warm.md",
-    "Retos-bandit/Bandit32 - 33.md",
-    "Retos-bandit/Bandit33 - 34.md",
-    "Retos-bandit/Bandit31 - 32.md",
-    "Retos-bandit/Bandit30 - 31.md",
-    "Retos-bandit/Bandit29 - 30.md",
-    "Primer-examen-parcial",
+    "Plantilla.md",
+    "PicoCTF/Retos-Web/07 - Irish-Name-Repo 1.md",
+    "PicoCTF",
+    "PicoCTF/Retos-Web/02 - dont-use-client-side.md",
+    "PicoCTF/Retos-Web/06 - Pico Browser.md",
+    "PicoCTF/Retos-Web/05 - Client-side-again.md",
+    "PicoCTF/Retos-Web/04 - where are the robots.md",
+    "PicoCTF/Retos-Web/03 - logon.md",
+    "PicoCTF/Retos-Web/01 - Insp3ct0r.md",
+    "PicoCTF/Primer-examen-parcial/17 - fixme1.py copy.md",
+    "PicoCTF/Primer-examen-parcial/18 - FIxme2.py.md",
+    "PicoCTF/Primer-examen-parcial/15 - Strings it.md",
+    "PicoCTF/Primer-examen-parcial/24 - Plumbing.md",
+    "PicoCTF/Primer-examen-parcial/23 - Based.md",
+    "PicoCTF/Primer-examen-parcial/22 - Runme.py.md",
+    "PicoCTF/Primer-examen-parcial/21 - PW Crack 3.md",
+    "PicoCTF/Primer-examen-parcial/20 - PW Crack 2.md",
+    "PicoCTF/Primer-examen-parcial/19 - PW Crack 1.md",
+    "PicoCTF/Primer-examen-parcial/14 - fixme1.py.md",
+    "PicoCTF/Primer-examen-parcial/16 - what's a net cat.md",
+    "PicoCTF/Primer-examen-parcial/13 - First grep.md",
+    "PicoCTF/Primer-examen-parcial/12 - convertme.py.md",
+    "PicoCTF/Primer-examen-parcial/11 - codebook.md",
+    "PicoCTF/Primer-examen-parcial/10-bases.md",
+    "PicoCTF/Primer-examen-parcial/09-2Warm.md",
+    "PicoCTF/Primer-examen-parcial/08-Warmed Up.md",
+    "PicoCTF/Primer-examen-parcial/07-Lets Warm Up.md",
+    "PicoCTF/Retos-Web",
+    "PicoCTF/Primer-examen-parcial",
     "Retos-bandit"
   ]
 }
