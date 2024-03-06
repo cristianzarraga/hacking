@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "19deb1e95a426f00",
+        "id": "ccf7d4d69530204b",
         "type": "tabs",
         "children": [
           {
-            "id": "56a67032a0038efc",
+            "id": "f425b6d4732ac4d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Retos-Web/10 - JaWT Scratchpad.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PicoCTF/Retos-Web/10 - JaWT Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PicoCTF/Retos-Web/10 - JaWT Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PicoCTF/Retos-Web/10 - JaWT Scratchpad.md"
+              }
             }
           }
         ]
@@ -138,13 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1822001a878e1a46",
+  "active": "f425b6d4732ac4d4",
   "lastOpenFiles": [
-    "Plantilla.md",
+    "PicoCTF/Retos-Web/09 - Irish-Name-Repo 3.md",
+    "PicoCTF/Retos-Web/08 - Irish-Name-Repo 2.md",
     "PicoCTF/Retos-Web/07 - Irish-Name-Repo 1.md",
+    "PicoCTF/Retos-Web/06 - Pico Browser.md",
+    "PicoCTF/Retos-Web/10 - JaWT Scratchpad.md",
+    "Plantilla.md",
     "PicoCTF",
     "PicoCTF/Retos-Web/02 - dont-use-client-side.md",
-    "PicoCTF/Retos-Web/06 - Pico Browser.md",
     "PicoCTF/Retos-Web/05 - Client-side-again.md",
     "PicoCTF/Retos-Web/04 - where are the robots.md",
     "PicoCTF/Retos-Web/03 - logon.md",
@@ -164,9 +175,6 @@
     "PicoCTF/Primer-examen-parcial/12 - convertme.py.md",
     "PicoCTF/Primer-examen-parcial/11 - codebook.md",
     "PicoCTF/Primer-examen-parcial/10-bases.md",
-    "PicoCTF/Primer-examen-parcial/09-2Warm.md",
-    "PicoCTF/Primer-examen-parcial/08-Warmed Up.md",
-    "PicoCTF/Primer-examen-parcial/07-Lets Warm Up.md",
     "PicoCTF/Retos-Web",
     "PicoCTF/Primer-examen-parcial",
     "Retos-bandit"
