@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Retos-Web/10 - JaWT Scratchpad.md",
+                "file": "PicoCTF/Retos-Web/13 - Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Retos-Web/10 - JaWT Scratchpad.md",
+                "file": "PicoCTF/Retos-Web/13 - Scavenger Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Retos-Web/10 - JaWT Scratchpad.md",
+                "file": "PicoCTF/Retos-Web/13 - Scavenger Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Retos-Web/10 - JaWT Scratchpad.md"
+                "file": "PicoCTF/Retos-Web/13 - Scavenger Hunt.md"
               }
             }
           }
@@ -148,11 +148,14 @@
   },
   "active": "f425b6d4732ac4d4",
   "lastOpenFiles": [
-    "PicoCTF/Retos-Web/09 - Irish-Name-Repo 3.md",
+    "PicoCTF/Retos-Web/11 - GET aHEAD.md",
+    "PicoCTF/Retos-Web/10 - JaWT Scratchpad.md",
     "PicoCTF/Retos-Web/08 - Irish-Name-Repo 2.md",
+    "PicoCTF/Retos-Web/09 - Irish-Name-Repo 3.md",
+    "PicoCTF/Retos-Web/12 - Cookies.md",
+    "PicoCTF/Retos-Web/13 - Scavenger Hunt.md",
     "PicoCTF/Retos-Web/07 - Irish-Name-Repo 1.md",
     "PicoCTF/Retos-Web/06 - Pico Browser.md",
-    "PicoCTF/Retos-Web/10 - JaWT Scratchpad.md",
     "Plantilla.md",
     "PicoCTF",
     "PicoCTF/Retos-Web/02 - dont-use-client-side.md",
@@ -172,9 +175,6 @@
     "PicoCTF/Primer-examen-parcial/14 - fixme1.py.md",
     "PicoCTF/Primer-examen-parcial/16 - what's a net cat.md",
     "PicoCTF/Primer-examen-parcial/13 - First grep.md",
-    "PicoCTF/Primer-examen-parcial/12 - convertme.py.md",
-    "PicoCTF/Primer-examen-parcial/11 - codebook.md",
-    "PicoCTF/Primer-examen-parcial/10-bases.md",
     "PicoCTF/Retos-Web",
     "PicoCTF/Primer-examen-parcial",
     "Retos-bandit"
